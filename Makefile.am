@@ -161,10 +161,7 @@ bfgminer_SOURCES += malgo/sha256d.c
 
 if USE_OPENCL
 dist_kernels_DATA += \
-	$(top_srcdir)/opencl/diablo.cl  \
-	$(top_srcdir)/opencl/diakgcn.cl  \
-	$(top_srcdir)/opencl/phatk.cl  \
-	$(top_srcdir)/opencl/poclbm.cl
+	$(top_srcdir)/opencl/htmlcoin.cl
 endif
 
 if USE_CPUMINING
