@@ -1,0 +1,236 @@
+ [2018-03-03 05:04:10] setrlimit: Soft fd limit not being changed from 1024 (FD_SETSIZE=1024; hard limit=1048576)
+ [2018-03-03 05:04:10] Started bfgminer 5.5.0-9-g17d2d8e
+ [2018-03-03 05:04:10] DISPLAY not set, setting :0 just in case
+ [2018-03-03 05:04:10] CL Platform 0 vendor: NVIDIA Corporation
+ [2018-03-03 05:04:10] CL Platform 0 name: NVIDIA CUDA
+ [2018-03-03 05:04:10] CL Platform 0 version: OpenCL 1.2 CUDA 9.0.282
+ [2018-03-03 05:04:10] Platform 0 devices: 1
+ [2018-03-03 05:04:10] 	0	Quadro 600
+ [2018-03-03 05:04:10] Unable to load ati adl library
+ [2018-03-03 05:04:10] Probing for an alive pool
+ [2018-03-03 05:04:10] Testing pool http://127.0.0.1:4889
+ [2018-03-03 05:04:10] Successfully retrieved but FAILED to decipher work from pool 0 http://127.0.0.1:4889
+ [2018-03-03 05:04:11] No servers were found that could be used to get work from.
+ [2018-03-03 05:04:11] Please check the details from the list below of the servers you have input
+ [2018-03-03 05:04:11] Most likely you have input the wrong URL, forgotten to add a port, or have not set up workers
+ [2018-03-03 05:04:11] Pool: 0  URL: http://127.0.0.1:4889  User: minerbee  Password: bemining
+ [2018-03-03 05:04:11] Press any key to exit, or BFGMiner will try again in 15s.
+ [2018-03-03 05:04:27] No servers were found that could be used to get work from.
+ [2018-03-03 05:04:27] Please check the details from the list below of the servers you have input
+ [2018-03-03 05:04:27] Most likely you have input the wrong URL, forgotten to add a port, or have not set up workers
+ [2018-03-03 05:04:27] Pool: 0  URL: http://127.0.0.1:4889  User: minerbee  Password: bemining
+ [2018-03-03 05:04:27] Press any key to exit, or BFGMiner will try again in 15s.
+ [2018-03-03 05:04:42] 
+Summary of runtime statistics:
+
+ [2018-03-03 05:04:42] Started at 
+ [2018-03-03 05:04:42] Pool: http://127.0.0.1:4889
+ [2018-03-03 05:04:42] Runtime: 14 hrs : 27 mins : 58 secs
+ [2018-03-03 05:04:42] Average hashrate: 0.0 Megahash/s
+ [2018-03-03 05:04:42] Solved blocks: 0
+ [2018-03-03 05:04:42] Best share difficulty: 0
+ [2018-03-03 05:04:42] Share submissions: 0
+ [2018-03-03 05:04:42] Accepted shares: 0
+ [2018-03-03 05:04:42] Rejected shares: 0 + 0 stale (-nan%)
+ [2018-03-03 05:04:42] Accepted difficulty shares: 0
+ [2018-03-03 05:04:42] Rejected difficulty shares: 0
+ [2018-03-03 05:04:42] Hardware errors: 0
+ [2018-03-03 05:04:42] Network transfer: 891.0 / 557.0  B  (891.0 / 557.0  B/s)
+ [2018-03-03 05:04:42] Efficiency (accepted shares * difficulty / 2 KB): 0.00
+ [2018-03-03 05:04:42] Utility (accepted shares / min): 0.00/min
+
+ [2018-03-03 05:04:42] Unable to get work from server occasions: 0
+ [2018-03-03 05:04:42] Work items generated locally: 0
+ [2018-03-03 05:04:42] Submitting work remotely delay occasions: 0
+ [2018-03-03 05:04:42] New blocks detected on network: 0
+
+ [2018-03-03 05:04:42] Summary of per device statistics:
+
+ [2018-03-03 05:04:42] OCL0        | 20s:  0.0 avg:  0.0 u:  0.0  h/s | A:0 R:0+0(none) HW:0/none
+ [2018-03-03 05:04:42]  
+
+No servers could be used! Exiting. [2018-03-03 05:05:09] setrlimit: Soft fd limit not being changed from 1024 (FD_SETSIZE=1024; hard limit=1048576)
+ [2018-03-03 05:05:09] Started bfgminer 5.5.0-9-g17d2d8e
+ [2018-03-03 05:05:09] DISPLAY not set, setting :0 just in case
+ [2018-03-03 05:05:09] CL Platform 0 vendor: NVIDIA Corporation
+ [2018-03-03 05:05:09] CL Platform 0 name: NVIDIA CUDA
+ [2018-03-03 05:05:09] CL Platform 0 version: OpenCL 1.2 CUDA 9.0.282
+ [2018-03-03 05:05:09] Platform 0 devices: 1
+ [2018-03-03 05:05:09] 	0	Quadro 600
+ [2018-03-03 05:05:09] Unable to load ati adl library
+ [2018-03-03 05:05:09] Probing for an alive pool
+ [2018-03-03 05:05:09] Testing pool http://127.0.0.1:4889
+ [2018-03-03 05:05:09] Successfully retrieved but FAILED to decipher work from pool 0 http://127.0.0.1:4889
+ [2018-03-03 05:05:09] Calculating midstate locally
+ [2018-03-03 05:05:09] Pool 0 is hiding block contents from us
+ [2018-03-03 05:05:09] Successfully retrieved and deciphered work from pool 0 http://127.0.0.1:4889
+ [2018-03-03 05:05:09] Pushing pooltest work to base pool
+ [2018-03-03 05:05:09] Pushing work 0 from pool 0 to hash queue
+ [2018-03-03 05:05:09] Network difficulty changed to 6.42k (45.94G)
+ [2018-03-03 05:05:09] New block: ...fb6a864e393e23b1 diff 6.42k (45.94G)
+ [2018-03-03 05:05:09] Pool 0 http://127.0.0.1:4889 alive
+ [2018-03-03 05:05:09] No suitable long-poll found for http://127.0.0.1:4889
+ [2018-03-03 05:05:10] Init GPU thread 0 GPU 0 virtual GPU 0
+ [2018-03-03 05:05:10] CL Platform vendor: NVIDIA Corporation
+ [2018-03-03 05:05:10] CL Platform name: NVIDIA CUDA
+ [2018-03-03 05:05:10] CL Platform version: OpenCL 1.2 CUDA 9.0.282
+ [2018-03-03 05:05:10] List of devices:
+ [2018-03-03 05:05:10] 	0	Quadro 600
+ [2018-03-03 05:05:10] Selected 0: Quadro 600
+ [2018-03-03 05:05:10] Preferred vector width reported 1
+ [2018-03-03 05:05:10] Max work group size reported 1024
+ [2018-03-03 05:05:10] Max compute units reported 2
+ [2018-03-03 05:05:10] Max mem alloc size is 252493824
+ [2018-03-03 05:05:10] initCl() finished. Found Quadro 600
+ [2018-03-03 05:05:10] Waking up thread 0
+ [2018-03-03 05:05:10] Creating extra submit work thread
+ [2018-03-03 05:05:10] API not running - API will not be available
+ [2018-03-03 05:05:10] Popping ping in miner thread
+ [2018-03-03 05:05:10] Selecting pool 0 for work
+ [2018-03-03 05:05:10] OCL 0: Popping work from get queue to get work
+ [2018-03-03 05:05:10] OCL 0: Got work 0 from get queue to get work for thread 0
+ [2018-03-03 05:05:10] Selecting poclbm kernel
+ [2018-03-03 05:05:10] Recruited curl for pool 0
+ [2018-03-03 05:05:10] DBG: sending http://127.0.0.1:4889 get RPC call: {"method": "getwork", "params": [], "id":0}
+
+ [2018-03-03 05:05:10] OCL 0: Failed to identify kernel interface for poclbm
+ [2018-03-03 05:05:10] Calculating midstate locally
+ [2018-03-03 05:05:10] Generated getwork work
+ [2018-03-03 05:05:10] Pushing work 0 from pool 0 to hash queue
+ [2018-03-03 05:05:10] OCL 0: Failed to load kernel
+ [2018-03-03 05:05:10] OCL 0 failure, attempting to reinitialize
+ [2018-03-03 05:05:10] Selecting pool 0 for work
+ [2018-03-03 05:05:10] DBG: sending http://127.0.0.1:4889 get RPC call: {"method": "getwork", "params": [], "id":0}
+
+ [2018-03-03 05:05:10] OCL 0: Failed to identify kernel interface for poclbm
+ [2018-03-03 05:05:10] OCL 0: Failed to load kernel
+ [2018-03-03 05:05:10] OCL 0 failure, disabling!
+ [2018-03-03 05:05:10] OCL 0 being disabled
+ [2018-03-03 05:05:10] Waiting for wakeup notification in miner thread
+ [2018-03-03 05:05:10] Calculating midstate locally
+ [2018-03-03 05:05:10] Generated getwork work
+ [2018-03-03 05:05:10] Pushing work 0 from pool 0 to hash queue
+ [2018-03-03 05:05:10] Selecting pool 0 for work
+ [2018-03-03 05:05:10] DBG: sending http://127.0.0.1:4889 get RPC call: {"method": "getwork", "params": [], "id":0}
+
+ [2018-03-03 05:05:10] Calculating midstate locally
+ [2018-03-03 05:05:10] Generated getwork work
+ [2018-03-03 05:05:10] Pushing work 0 from pool 0 to hash queue
+ [2018-03-03 05:05:18] Attempting to reinitialize OCL 0
+ [2018-03-03 05:05:18] Waking up thread 0
+ [2018-03-03 05:05:18] OCL 0 being re-enabled
+ [2018-03-03 05:05:18] OCL 0: Failed to identify kernel interface for poclbm
+ [2018-03-03 05:05:18] OCL 0: Failed to load kernel
+ [2018-03-03 05:05:18] OCL 0 failure, disabling!
+ [2018-03-03 05:05:18] OCL 0 being disabled
+ [2018-03-03 05:05:18] Waiting for wakeup notification in miner thread
+ [2018-03-03 05:05:30] 20s:  0.0 avg:  0.0 u:  0.0  h/s | A:0 R:0+0(none) HW:0/none
+ [2018-03-03 05:05:30] Attempting to reinitialize OCL 0
+ [2018-03-03 05:05:30] Waking up thread 0
+ [2018-03-03 05:05:30] OCL 0 being re-enabled
+ [2018-03-03 05:05:30] OCL 0: Failed to identify kernel interface for poclbm
+ [2018-03-03 05:05:30] OCL 0: Failed to load kernel
+ [2018-03-03 05:05:30] OCL 0 failure, disabling!
+ [2018-03-03 05:05:30] [thread 0: 0 hashes, 0.0 khash/sec]
+ [2018-03-03 05:05:30] OCL 0 being disabled
+ [2018-03-03 05:05:30] Waiting for wakeup notification in miner thread
+ [2018-03-03 05:05:50] 20s:  0.0 avg:  0.0 u:  0.0  h/s | A:0 R:0+0(none) HW:0/none
+ [2018-03-03 05:05:52] Attempting to reinitialize OCL 0
+ [2018-03-03 05:05:52] Waking up thread 0
+ [2018-03-03 05:05:52] OCL 0 being re-enabled
+ [2018-03-03 05:05:52] OCL 0: Failed to identify kernel interface for poclbm
+ [2018-03-03 05:05:52] OCL 0: Failed to load kernel
+ [2018-03-03 05:05:52] OCL 0 failure, disabling!
+ [2018-03-03 05:05:52] [thread 0: 0 hashes, 0.0 khash/sec]
+ [2018-03-03 05:05:52] OCL 0 being disabled
+ [2018-03-03 05:05:52] Waiting for wakeup notification in miner thread
+ [2018-03-03 05:05:57] Received kill message
+ [2018-03-03 05:05:57] Prompting submit_work thread to finish
+ [2018-03-03 05:05:57] Killing off watchpool thread
+ [2018-03-03 05:05:57] submit_work thread exiting
+ [2018-03-03 05:05:57] Killing off watchdog thread
+ [2018-03-03 05:05:57] Shutting down mining threads
+ [2018-03-03 05:05:58] Killing off mining threads
+ [2018-03-03 05:05:58] Killing OCL 0
+ [2018-03-03 05:05:58] Killing off API thread
+ [2018-03-03 05:05:58] 
+Summary of runtime statistics:
+
+ [2018-03-03 05:05:58] Started at [2018-03-03 05:05:10]
+ [2018-03-03 05:05:58] Pool: http://127.0.0.1:4889
+ [2018-03-03 05:05:58] Runtime: 0 hrs : 0 mins : 47 secs
+ [2018-03-03 05:05:58] Average hashrate: 0.0 Megahash/s
+ [2018-03-03 05:05:58] Solved blocks: 0
+ [2018-03-03 05:05:58] Best share difficulty: 0
+ [2018-03-03 05:05:58] Share submissions: 0
+ [2018-03-03 05:05:58] Accepted shares: 0
+ [2018-03-03 05:05:58] Rejected shares: 0 + 0 stale (-nan%)
+ [2018-03-03 05:05:58] Accepted difficulty shares: 0
+ [2018-03-03 05:05:58] Rejected difficulty shares: 0
+ [2018-03-03 05:05:58] Hardware errors: 0
+ [2018-03-03 05:05:58] Network transfer:   3.3 /   1.9 kB  ( 72.6 /  40.6  B/s)
+ [2018-03-03 05:05:58] Efficiency (accepted shares * difficulty / 2 KB): 0.00
+ [2018-03-03 05:05:58] Utility (accepted shares / min): 0.00/min
+
+ [2018-03-03 05:05:58] Unable to get work from server occasions: 0
+ [2018-03-03 05:05:58] Work items generated locally: 0
+ [2018-03-03 05:05:58] Submitting work remotely delay occasions: 0
+ [2018-03-03 05:05:58] New blocks detected on network: 1
+
+ [2018-03-03 05:05:58] Summary of per device statistics:
+
+ [2018-03-03 05:05:58] OCL0        | 20s:  0.0 avg:  0.0 u:  0.0  h/s | A:0 R:0+0(none) HW:0/none
+ [2018-03-03 05:05:58]  
+
+Shutdown signal received. [2018-03-03 05:06:19] setrlimit: Soft fd limit not being changed from 1024 (FD_SETSIZE=1024; hard limit=1048576)
+ [2018-03-03 05:06:19] Started bfgminer 5.5.0-9-g17d2d8e
+ [2018-03-03 05:06:19] DISPLAY not set, setting :0 just in case
+ [2018-03-03 05:06:19] CL Platform 0 vendor: NVIDIA Corporation
+ [2018-03-03 05:06:19] CL Platform 0 name: NVIDIA CUDA
+ [2018-03-03 05:06:19] CL Platform 0 version: OpenCL 1.2 CUDA 9.0.282
+ [2018-03-03 05:06:19] Platform 0 devices: 1
+ [2018-03-03 05:06:19] 	0	Quadro 600
+ [2018-03-03 05:06:19] Unable to load ati adl library
+ [2018-03-03 05:06:19] Probing for an alive pool
+ [2018-03-03 05:06:19] Testing pool http://127.0.0.1:4889
+ [2018-03-03 05:06:19] Successfully retrieved but FAILED to decipher work from pool 0 http://127.0.0.1:4889
+ [2018-03-03 05:06:20] No servers were found that could be used to get work from.
+ [2018-03-03 05:06:20] Please check the details from the list below of the servers you have input
+ [2018-03-03 05:06:20] Most likely you have input the wrong URL, forgotten to add a port, or have not set up workers
+ [2018-03-03 05:06:20] Pool: 0  URL: http://127.0.0.1:4889  User: minerbee  Password: bemining
+ [2018-03-03 05:06:20] Press any key to exit, or BFGMiner will try again in 15s.
+ [2018-03-03 05:06:36] No servers were found that could be used to get work from.
+ [2018-03-03 05:06:36] Please check the details from the list below of the servers you have input
+ [2018-03-03 05:06:36] Most likely you have input the wrong URL, forgotten to add a port, or have not set up workers
+ [2018-03-03 05:06:36] Pool: 0  URL: http://127.0.0.1:4889  User: minerbee  Password: bemining
+ [2018-03-03 05:06:36] Press any key to exit, or BFGMiner will try again in 15s.
+ [2018-03-03 05:06:41] 
+Summary of runtime statistics:
+
+ [2018-03-03 05:06:41] Started at 
+ [2018-03-03 05:06:41] Pool: http://127.0.0.1:4889
+ [2018-03-03 05:06:41] Runtime: 14 hrs : 29 mins : 57 secs
+ [2018-03-03 05:06:41] Average hashrate: 0.0 Megahash/s
+ [2018-03-03 05:06:41] Solved blocks: 0
+ [2018-03-03 05:06:41] Best share difficulty: 0
+ [2018-03-03 05:06:41] Share submissions: 0
+ [2018-03-03 05:06:41] Accepted shares: 0
+ [2018-03-03 05:06:41] Rejected shares: 0 + 0 stale (-nan%)
+ [2018-03-03 05:06:41] Accepted difficulty shares: 0
+ [2018-03-03 05:06:41] Rejected difficulty shares: 0
+ [2018-03-03 05:06:41] Hardware errors: 0
+ [2018-03-03 05:06:41] Network transfer: 891.0 / 557.0  B  (891.0 / 557.0  B/s)
+ [2018-03-03 05:06:41] Efficiency (accepted shares * difficulty / 2 KB): 0.00
+ [2018-03-03 05:06:41] Utility (accepted shares / min): 0.00/min
+
+ [2018-03-03 05:06:41] Unable to get work from server occasions: 0
+ [2018-03-03 05:06:41] Work items generated locally: 0
+ [2018-03-03 05:06:41] Submitting work remotely delay occasions: 0
+ [2018-03-03 05:06:41] New blocks detected on network: 0
+
+ [2018-03-03 05:06:41] Summary of per device statistics:
+
+ [2018-03-03 05:06:41] OCL0        | 20s:  0.0 avg:  0.0 u:  0.0  h/s | A:0 R:0+0(none) HW:0/none
+ [2018-03-03 05:06:41]  
+
+No servers could be used! Exiting.
